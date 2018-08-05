@@ -1,0 +1,19 @@
+
+.style1{
+    width: 200px;
+    height: 500px;
+    background-color: aqua;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+/*父子选择器*/
+.style1 table{
+    width: 198px;
+    height: 498px;
+    border: dashed 1px green;
+}
+
+.style1 table tr{
+    border: 1px solid black;
+    text-align: center;
+}
